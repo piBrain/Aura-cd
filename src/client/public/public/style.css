@@ -1,0 +1,19 @@
+.header {
+  position: absolute;
+  overflow: hidden;
+  height: 300px;
+  background: #90d3ed; }
+  .header .logo {
+    float: left;
+    position: absolute;
+    top: 0;
+    font-family: 'Bungee Hairline', cursive; }
+  .header .links-container {
+    position: absolute;
+    overflow: hidden; }
+    .header .links-container .links {
+      float: left;
+      font-family: 'Roboto Mono', monospace;
+      font-size: 24px; }
+
+/*# sourceMappingURL=style.css.map*/
